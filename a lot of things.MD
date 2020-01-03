@@ -1,32 +1,32 @@
-**** quarkus
+### quarkus
 https://quarkus.io/guides/reactive-routes
 https://quarkus.io/guides/reactive-sql-clients
 
-**** etcd
+### etcd
 https://stackshare.io/stackups/etcd-vs-redis
 https://coreos.com/blog/performance-of-etcd.html
 
-***** java etcd
+### java etcd
 https://github.com/IBM/etcd-java
 https://github.com/etcd-io/jetcd
 
-**** k8s 
+### k8s 
 https://www.ovh.it/public-cloud/prices/#compute
 
-**** lat,lon in memory
+###  lat,lon in memory
 https://guzalexander.com/2018/11/04/java-in-memory-geospatial.html
 https://github.com/kalimatas/geospatial-benchmarks
 https://fribbels.github.io/vptree/writeup
 https://jchambers.github.io/jeospatial/
 https://stackoverflow.com/questions/52302394/poor-lucene-in-memory-spatial-index-performance
 
-**** apache pulsar
+###  apache pulsar
 https://pulsar.apache.org/docs/en/client-libraries-java
 
-***** test containers
+### test containers
 https://www.testcontainers.org
 
-**** github actions 
+### github actions 
 https://rieckpil.de/github-actions-for-java-automate-your-maven-workflows
 https://gist.github.com/faph/20331648cdc0b492eba0f4d83f69eaa5
 
